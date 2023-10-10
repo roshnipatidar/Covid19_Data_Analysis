@@ -22,13 +22,13 @@ This project's objective is to conduct an analysis of the COVID-19 pandemic usin
  🪨Challenges and 🧠learnings-
 </h2>
 
- **JSON Data Extraction:** Navigated nested JSON structures to extract relevant COVID-19 information.
+**JSON Data Extraction**: Skillfully navigated nested JSON structures to extract pertinent COVID-19 information.
 
- **Data Cleaning:** Tackled missing values and inconsistencies in COVID-19 data for accurate analysis.
-  
- **Code Optimization:** Improved efficiency in processing and analyzing extensive COVID-19 datasets.
- 
- **Domain Understanding:** Gained insights into public health and epidemiology through COVID-19 data analysis.
+**Data Cleaning**: Addressed missing values and discrepancies in COVID-19 data to ensure precise analysis.
+
+**Code Optimization**: Enhanced processing efficiency for extensive COVID-19 datasets, improving overall performance.
+
+**Domain Understanding**: Developed insights into public health and epidemiology by analyzing COVID-19 data.
  
   
 
@@ -51,6 +51,10 @@ This project's objective is to conduct an analysis of the COVID-19 pandemic usin
 #### 7. Aggregated the distribution by month and week wise for each state.
 #### 8. Imported the aggregated data into Excel for further Analysis.
 
+##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/8e952995-c32d-4703-a9dd-92d1914cc6d9"  width="48" height="48"> Analysis/Insights
+![image](https://github.com/roshnipatidar/Covid19_Data_Analysis/assets/143728620/334c8988-b055-4522-b747-0163e8d78f85)
+![image](https://github.com/roshnipatidar/Covid19_Data_Analysis/assets/143728620/afb11aca-2d24-4578-bc20-d6f64d2486c1)
+![image](https://github.com/roshnipatidar/Covid19_Data_Analysis/assets/143728620/9a65718d-859e-41c2-82f5-f759a9adcb28)
 
 
 ##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/126ceca9-e69e-43b4-851a-9de69526d082" width="48" height="48"> Dashboard
@@ -58,9 +62,8 @@ This project's objective is to conduct an analysis of the COVID-19 pandemic usin
 
 
 ## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
-1. The analysis focused on the weekly progression of COVID-19 cases, recoveries, deaths, and tests, providing valuable insights into the pandemic's impact across various regions and timeframes.
-2. Fluctuations in the number of cases and deaths were observed, underscoring the dynamic nature of the pandemic's effects in different geographical areas.
-3. Through effective data visualization using charts and graphs, the project facilitated a clearer understanding of the data, aiding in the interpretation of trends and patterns.
-4. The project's findings hold practical significance for public health authorities, enabling them to devise more targeted and efficient strategies for containing the virus's transmission.
-5. Policymakers can benefit from the analysis by making informed decisions on resource allocation, directing support to regions experiencing the highest impact from the pandemic.
+1. Focusing on the weekly progression of COVID-19 cases, recoveries, deaths, and tests, the study offers valuable insights into the pandemic's impact across various regions and timeframes.
+2. Observations revealed fluctuations in the number of cases and deaths, emphasizing the dynamic nature of the pandemic's effects in different geographical areas.
+3. Through effective data visualization employing charts and graphs, this work enhances data clarity, facilitating the interpretation of trends and patterns.
+4. The findings have practical importance for public health authorities, equipping them with the means to formulate more targeted and efficient strategies for curbing the virus's spread.
 
