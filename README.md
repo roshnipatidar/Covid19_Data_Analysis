@@ -1,4 +1,5 @@
-##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/126ceca9-e69e-43b4-851a-9de69526d082" width="48" height="48"> COVID-19-Analysis
+![image](https://github.com/roshnipatidar/Covid19_Data_Analysis/assets/143728620/cf255fd4-3dd4-4981-a7a4-c09a8833d474)
+
 
 ## Introduction
 COVID-19, caused by the SARS-CoV-2 virus, has been a global respiratory pandemic since 2019. It can lead to mild or severe symptoms, impacting every aspect of our lives. To mitigate its spread, preventive measures like vaccination, mask usage, and social distancing are crucial. Research and cooperation are essential in its management.
@@ -42,7 +43,9 @@ This project's objective is to conduct an analysis of the COVID-19 pandemic usin
 #### 4. Stated analyzing the data by using pandas functions like group by, sort_values, etc.
 #### 5. Used nested 'for' loops to extract the relevant data from the nested dictionary.
 ![image](https://github.com/roshnipatidar/Covid19_Data_Analysis/assets/143728620/84f9342e-b851-4222-ac97-455f30187e42)
-![image](https://github.com/roshnipatidar/Covid19_Data_Analysis/assets/143728620/0388ed1a-358c-4efd-9720-27c639067c5f)
+![image](https://github.com/roshnipatidar/Covid19_Data_Analysis/assets/143728620/2858e607-3b7f-4477-9092-339abbcf0e08)
+
+
 
 #### 6. Extracted the individual state data from the data frame in CSV format and imported data into MySQL.
 #### 7. Aggregated the distribution by month and week wise for each state.
