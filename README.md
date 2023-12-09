@@ -58,7 +58,8 @@ This project's objective is to conduct an analysis of the COVID-19 pandemic usin
 
 
 ##  <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/126ceca9-e69e-43b4-851a-9de69526d082" width="48" height="48"> Dashboard
- ![image](https://github.com/roshnipatidar/Covid19_Data_Analysis/assets/143728620/686f623c-733c-4de9-a176-ccf89d4d9a81)
+![image](https://github.com/roshnipatidar/Covid19_Data_Analysis/assets/143728620/235a1fba-4cd4-4f1a-afa7-2da4256a1c01)
+
 
 
 ## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
